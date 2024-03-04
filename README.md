@@ -4,4 +4,4 @@
 
 ## Python
 ### Regex and Parsing
-1. [Re.split()](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/split().py)
+1. [Re.split()](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/Regex-and-parsing/split().py)
