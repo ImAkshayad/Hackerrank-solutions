@@ -36,3 +36,9 @@ WHERE COUNTRYCODE = 'JPN';
 SELECT NAME
 FROM CITY 
 WHERE COUNTRYCODE = 'JPN';
+
+-- Weather Observation Station 1
+-- Query a list of CITY and STATE from the STATION table.
+
+SELECT CITY, STATE
+FROM STATION;
