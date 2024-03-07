@@ -25,6 +25,9 @@
 ### Advanced Select
 1. [Type of Triangle](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/advanced-select/type-of-triangle.sql)
 2. [The PADS](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/advanced-select/the-pads.sql)
+3. [Binary Tree Node](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/advanced-select/binary-tree-node.sql)
+4. [New Companies](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/advanced-select/new-companies.sql)
+
 
 ## Python
 ### Regex and Parsing
