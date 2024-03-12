@@ -32,3 +32,6 @@
 ## Python
 ### Regex and Parsing
 1. [Re.split()](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/regex-and-parsing/split().py)
+
+## Linux
+1. [A Personalized echo](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/linux/bash/a-personalized-echo.bash)
