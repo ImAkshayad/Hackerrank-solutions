@@ -28,6 +28,12 @@
 3. [Binary Tree Node](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/advanced-select/binary-tree-node.sql)
 4. [New Companies](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/advanced-select/new-companies.sql)
 
+### Aggregation
+1. [Revising Aggregations - The Count Function](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/revising-aggregations-the-count-function.sql)
+2. [Revising Aggregations - The Sum Function](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/revising-aggregations-the-sum-function.sql)
+3. [Revising Aggregations - Averages](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/revising-aggregations-averages.sql)
+4. [Average problem](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/average-problem.sql)
+5. [Japan Population](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/japan-population.sql)
 
 ## Python
 ### Regex and Parsing
