@@ -34,6 +34,7 @@
 3. [Revising Aggregations - Averages](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/revising-aggregations-averages.sql)
 4. [Average problem](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/average-problem.sql)
 5. [Japan Population](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/japan-population.sql)
+6. [Population Density Difference](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/population-density-difference.sql)
 
 ## Python
 ### Regex and Parsing
