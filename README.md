@@ -35,6 +35,7 @@
 4. [Average problem](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/average-problem.sql)
 5. [Japan Population](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/japan-population.sql)
 6. [Population Density Difference](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/population-density-difference.sql)
+7. [The Blunder](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/the-blunder.sql)
 
 ## Python
 ### Regex and Parsing
