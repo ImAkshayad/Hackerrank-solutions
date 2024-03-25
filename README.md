@@ -39,13 +39,13 @@
 
 ## Python
 ### Introduction
-1. [Say "Hello, World!" with Python](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/say-hello-world-with-python.py)
-2. [Python If-else](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/if-else.py)
-3. [Arithmetic Operators](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/arithmetic-operators.py)
-4. [Python Division](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/python-division.py)
-5. [Loops](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/loops.py)
-6. [Write a function](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/write-a-function.py)
-7. [Print function](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/print-function.py)
+|[Say "Hello, World!" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/say-hello-world-with-python.py)|
+|[Python If-else](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/if-else.py)|
+|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/arithmetic-operators.py)|
+|[Python Division](https://www.hackerrank.com/challenges/python-division/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/python-division.py)|
+|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/loops.py)|
+|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/write-a-function.py)|
+|[Print function](https://www.hackerrank.com/challenges/python-print/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/print-function.py)|
 
 ### Regex and Parsing
 1. [Re.split()](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/regex-and-parsing/split().py)
