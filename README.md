@@ -38,6 +38,15 @@
 7. [The Blunder](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/sql/aggregation/the-blunder.sql)
 
 ## Python
+### Introduction
+1. [Say "Hello, World!" with Python](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/say-hello-world-with-python.py)
+2. [Python If-else](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/if-else.py)
+3. [Arithmetic Operators](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/arithmetic-operators.py)
+4. [Python Division](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/python-division.py)
+5. [Loops](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/loops.py)
+6. [Write a function](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/write-a-function.py)
+7. [Print function](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/print-function.py)
+
 ### Regex and Parsing
 1. [Re.split()](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/regex-and-parsing/split().py)
 
