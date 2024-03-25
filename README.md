@@ -39,6 +39,8 @@
 
 ## Python
 ### Introduction
+| Problem | Link to Solution |
+|---------|------------------|
 |[Say "Hello, World!" with Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/say-hello-world-with-python.py)|
 |[Python If-else](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/if-else.py)|
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[Solution](https://github.com/ImAkshayad/Hackerrank-solutions/blob/dev/python/introduction/arithmetic-operators.py)|
